@@ -1,5 +1,6 @@
 {
   "name": "tagplus",
+  "version": "1.0.0",
   "description": "Integração com a API REST do ERP TagPlus — autenticação OAuth 2.0, operações com clientes, pedidos, produtos, estoque e financeiro.",
   "author": {
     "name": "Marcelo Tomoyose",
